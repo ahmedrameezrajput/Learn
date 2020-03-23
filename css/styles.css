@@ -7,15 +7,6 @@ body{
 div{
 }
 
-#viewport{
-  zoom: 1.0;
-  width: extend-to-zoom;
-}
-
-#-ms-viewport{
-  width: extend-to-zoom;
-  zoom: 1.0;
-}
 
 /************INDEX***********/
 .menu{
