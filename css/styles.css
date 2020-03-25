@@ -4,7 +4,10 @@ body{
   margin: 0;
 }
 
-div{
+p {
+  font-family: 'Baloo Tammudu 2', cursive;
+  font-size: 12pt;
+  margin-right: 20px;
 }
 
 
@@ -14,10 +17,10 @@ div{
   z-index: 1;
   top: 0;
   width: 100%;
-  background-color: #fdfdfd;
+  background-color: #ffffff;
   padding: 15px;
   padding-top: 22px;
-  height: 12px;
+  height: 13px;
   margin-top: 0;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
@@ -25,19 +28,19 @@ div{
 
 .div1{
   background-color: #f6f6f6;
-  height: 330px;
+  height: 250px;
   margin: 0;
 }
 
 .homelogo{
   position: relative;
-  bottom: 23px;
+  bottom: 22px;
   left: 10%;
 }
 
 .div2{
   background-color: #f6f6f6;
-  height: 400px;
+  height: 300px;
 }
 
 .div3{
@@ -46,12 +49,12 @@ div{
 }
 
 .linktxt{
-  font-family: monospace;
-  font-size: 11.5pt;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 10px;
 }
 
 .link:hover{
-  transform: scale(1.06);
+  transform: scale(1.04);
 }
 
 .div4{
@@ -77,19 +80,18 @@ div{
 
 #know{
   position: absolute;
-  top: 250px;
-  right: 10px;
+  top: 800px;
+  right: 50px;
 }
 
 #know:hover{
-  transform: scale(1.03);
+  transform: scale(-1);
 }
 
 #email{
   font-style: normal;
-  font-family: sans-serif ;
-  font-weight: bold;
-  font-size: 11pt;
+  font-family: 'Baloo Chettan 2';
+  font-size: 12pt;
   color: red;
   margin-top: 0px;
 }
@@ -141,8 +143,8 @@ div{
 /**************MUSIC***************/
 
 .linktxt{
-  font-family: monospace;
-  font-size: 11.5pt;
+  font-family: 'Anton', sans-serif;
+  font-size: 10pt;
 }
 
 .m-div1{
